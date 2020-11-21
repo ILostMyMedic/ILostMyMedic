@@ -19,7 +19,7 @@ const [person, setPerson] = useState({
 # Hi, I'm Martin! 👋 👨‍💻
 Creator of bugs!
 
-I'm the current CTO/developer at [P-finder](https://p-finder.com).
+I'm the current CTO/developer at [Share-Park](https://share-park.app).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
