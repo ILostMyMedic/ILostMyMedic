@@ -10,7 +10,7 @@ const [person, setPerson] = useState({
     birth: '10/03/98',
     location: 'Norway',
     position: 'Web developer',
-    email: 'martin.johansen.98@outlook.com'
+    email: 'martin@share-park.app'
 })
 
 <h1>Hi, I'm {person.name}! 👋 👨‍💻</h1>
