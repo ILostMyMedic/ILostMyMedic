@@ -70,7 +70,4 @@ A few years later I would graduate from NTNU with a Bachelor's degree in Web dev
 <br /><br /><br /><br />
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilostmymedic&" alt="ilostmymedic" /></p>
-
-
-
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ILostMyMedic&theme=tokyonight_duo&hide_border=true" alt="ilostmymedic" /></p>
