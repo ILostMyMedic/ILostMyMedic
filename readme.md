@@ -20,12 +20,9 @@ A few years later I would graduate from NTNU with a Bachelor's degree in Web dev
 
 <br />
 
-<img align="right" alt="GIF" src="assets/animations/programmer.gif" width="350" />
-
-<br />
-
-
 ### Languages and Tools:
+
+<img align="right" alt="GIF" src="assets/animations/programmer.gif" width="350" />
 
 
 ##### Web Development
@@ -44,7 +41,7 @@ A few years later I would graduate from NTNU with a Bachelor's degree in Web dev
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40"/></code>
 
 
-<br />
+<br /><br /><br /><br />
 
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilostmymedic&" alt="ilostmymedic" /></p>
