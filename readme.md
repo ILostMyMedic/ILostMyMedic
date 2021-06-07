@@ -13,7 +13,7 @@ A few years later I would graduate from NTNU with a Bachelor's degree in Web dev
 
 <br />
 
-- 💼 In need of a freelancer? [Send me an mail](mailto:martin@share-park.app)
+- 💼 In need of a freelancer? [Send me an email](mailto:martin@share-park.app)
 - 💬 Ask me anything, I'm happy to help
 - 👏 View me on [Linkedin](https://www.linkedin.com/in/martin-johansen-a32a00173/)
 
